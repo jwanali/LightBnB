@@ -1,5 +1,9 @@
 # LightBnB
-
+LghtBnB is properties management project allow users to manage properties, book and search for short-term rental.
+# Installation
+Clone the repository: git clone https://github.com/jwanali/LightBnB
+Install dependencies: cd LightBnB_WebApp-master, npm install
+Start the application: npm run local
 
 ## Project Structure
 
