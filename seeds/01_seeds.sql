@@ -1,4 +1,4 @@
-/*INSERT INTO users (name,email,password)
+INSERT INTO users (name,email,password)
 VALUES ('Sara', 'sara@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('Rich', 'Rich@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('Jhone', 'Jhone@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
@@ -20,4 +20,4 @@ VALUES ('2018-09-11', '2018-09-26', 1, 1),
 INSERT INTO property_reviews (guest_id,property_id,reservation_id,rating,message) VALUES
 (3,2,1,3,'messages'),
 (2,2,2,4,'messages'),
-(3,1,3,4,'messages');*/
+(3,1,3,4,'messages');
